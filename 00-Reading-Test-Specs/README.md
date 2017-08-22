@@ -14,7 +14,7 @@ The code that passes the tests is located in the `hello.js` file.  Based on that
 #### Add Function
 
 The add function adds two numbers together.  The first spec passes but the second doesn't.  Our Test Spec is using a global variable and adding the return value from the add function on to it's value.
-How can you "re-assign" the global variable to 0 after each Test Spec?  Review the [beforeEach](https://jasmine.github.io/2.0/introduction.html#section-Setup_and_Teardown) function, add an assignment expression in the `beforeEach` code block that re-assigns the global variabl `returnValue` back to 0.
+How can you "re-assign" the global variable to 0 after each Test Spec?  Review the [beforeEach](https://jasmine.github.io/2.0/introduction.html#section-Setup_and_Teardown) function, add an assignment expression in the `beforeEach` code block that re-assigns the global variable `returnValue` back to 0.
  
 <hr>
 
