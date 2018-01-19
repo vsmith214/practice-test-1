@@ -42,5 +42,3 @@ As some of the previous TestSpecs demonstrated, Functions are just Objects.  The
 
 
 - [EJ: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
-- [Codeschool: JS Roadtrip PT 2 - Problem Solving With Functions ](http://javascript-roadtrip-part2.codeschool.com/levels/4/challenges/6)
-- [Codeschool: JS Roadtrip PT 3 - Forest Of Function Expressions](http://javascript-roadtrip-part3.codeschool.com/levels/1)
