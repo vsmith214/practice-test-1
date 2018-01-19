@@ -21,6 +21,5 @@ Often, you will hear that `Arrays` and `Functions` are special object types.  Th
 
 ### Additional Resources
 
-- Codeschool: [Level 4: Ocean of Objects](http://javascript-roadtrip-part3.codeschool.com/levels/4)
 - Eloquent JS: [Chapter 4: Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 
