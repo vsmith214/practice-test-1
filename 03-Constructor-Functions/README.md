@@ -55,5 +55,4 @@ A B -
 
 ### Additional Resources
 
-- Eloquent JavaScript [The Secret Life Of Objects](http://eloquentjavascript.net/06_object.html)
-- Codeschool [Plains of Prototypes](http://javascript-roadtrip-part3.codeschool.com/levels/5)  
+- Eloquent JavaScript [The Secret Life Of Objects](http://eloquentjavascript.net/06_object.html)  
