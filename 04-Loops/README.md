@@ -28,4 +28,4 @@ The goal of this TestSpec is to become familiar and comfortable with looping, us
 ### Additional Resources
 
 - Eloquent JavaScript [Control Flow](http://eloquentjavascript.net/02_program_structure.html#p_t55fBgZ9ww)
-- Codeschool [The Labyrinth of Loops](http://javascript-roadtrip-part2.codeschool.com/levels/1)
+
